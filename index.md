@@ -1,30 +1,21 @@
-## Welcome to GitHub Pages
+## PABLOcommons
 
-You can use the [editor on GitHub](https://github.com/pablocommons/pablocommons.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Digital Social Innovation .... alcuni esempi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://www.decodeproject.eu/what-decode
 
-### Markdown
+http://rampette.opencare.cc/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Dati di borgata - Human Ecosystems
+https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3hZQ6MoTupLmvCMEiWFPIWUjlQrV0NOqBgpG86cGaYO6rjDeqbVzM8
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## ROADMAP
 
-1. Numbered
-2. List
+## PROGETTI
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## LINKS
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

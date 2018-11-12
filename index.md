@@ -3,6 +3,7 @@
 ## Digital Social Innovation .... alcuni esempi
 
 https://www.decodeproject.eu/what-decode
+http://temi.repubblica.it/micromega-online/si-scrive-rete-si-legge-cambiamento-la-rivoluzione-tecnologica-di-barcellona/
 
 http://rampette.opencare.cc/
 
@@ -13,7 +14,12 @@ https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3
 
 ## ROADMAP
 
+
 ## PROGETTI
+
+
+
+
 
 ## LINKS
 

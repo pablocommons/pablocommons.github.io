@@ -6,14 +6,13 @@ Let's open our district
 
 ## What is Digital Social Innovation
 
-a way to open the neighborhood to everyone 
-in the hybrid space in which we live (network, street, houses, dreams in the drawer, etc. ..)
-a way of connecting and promising solidarity and sustainability for a truly possible future
-a way of doing innovation outside the box where the mother, the engineer, the poet, the adolescent, the elderly, the school, the library, the food and the volunteer can communicate and decide together what neighborhood they want
-an opportunity for everyone
-a community of innovators and dreamers
-a realistic and sustainable solution since it is only necessary to observe the district in a different way with the means already at our disposal
-...
+* a way to open the neighborhood to everyone in the hybrid space in which we live (network, street, houses, dreams in the drawer, etc. ..)
+* a way of connecting and promising solidarity and sustainability for a truly possible future
+* a way of doing innovation outside the box where the mother, the engineer, the poet, the adolescent, the elderly, the school, the library, the food and the volunteer can communicate and decide together what neighborhood they want
+* an opportunity for everyone
+* a community of innovators and dreamers
+* a realistic and sustainable solution since it is only necessary to observe the district in a different way with the means already at our disposal
+* ...
 
 https://veer.tv/photos/323412
 

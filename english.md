@@ -46,4 +46,4 @@ map resources by geo-localizing them all together (using for example [ASIGN](htt
 [Township data - Human Ecosystems](https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3hZQ6MoTupLmvCMEiWFPIWUjlQrV0NOqBgpG86cGaYO6rjDeqbVzM8)
 
 
-go to [githubpages](https://github.com/pablocommons/pablocommons.github.io)
+go to PABLOcommons [githubpages](https://github.com/pablocommons/pablocommons.github.io)

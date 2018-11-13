@@ -14,7 +14,7 @@ Cosa è:
 * ...
 
 
-
+![Piazzale Pablo - Parma](https://github.com/pablocommons/pablocommons.github.io/blob/master/IMG_20181113_104630.jpg)
 
 
 
@@ -32,6 +32,8 @@ Piazzale Pablo [UN-ASIGN crowd viewer tag](https://unosat.maps.arcgis.com/apps/w
 
 
 ## LINKS UTILI e Parole Chiave
+[Piazzale Pablo a 360](https://veer.tv/photos/323412)
+
 [Folkbildning](http://www.folkuniversitetet.se/In-English/About-Folkuniversitetet/what-is-folkbildning/)
 
 [DECODE Barcellona](https://www.decodeproject.eu/what-decode)

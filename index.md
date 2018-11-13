@@ -14,7 +14,7 @@ Cosa è:
 * ...
 
 
-<dd><iframe src="https://h5.veer.tv/photo-player?pid=323412&utm_medium=embed" frameborder="0" allowfullscreen="true" width="560" height="315"></iframe></dd>
+![alt text][https://h5.veer.tv/photo-player?pid=323412&utm_medium=embed]
 
 
 

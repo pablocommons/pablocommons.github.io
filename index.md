@@ -15,6 +15,7 @@ Cosa è:
 
 
 ![Piazzale Pablo - Parma](pablocommons.github.io/IMG_20181113_104630.jpg)
+Piazzale Pablo versione little planet
 
 
 

@@ -14,7 +14,9 @@ Let's open our district
 * a realistic and sustainable solution since it is only necessary to observe the district in a different way with the means already at our disposal
 * ...
 
-https://veer.tv/photos/323412
+
+![Piazzale Pablo - Parma](https://github.com/pablocommons/pablocommons.github.io/blob/master/IMG_20181113_104630.jpg)
+
 
 ## ROAD MAP
 map the open and spontaneous resources of the neighborhood
@@ -28,7 +30,9 @@ map resources by geo-localizing them all together (using for example [ASIGN](htt
 
 
 
-## LINKS and Keywords
+## USEFUL LINKS and Keywords
+[Piazzale Pablo by 360](https://veer.tv/photos/323412)
+
 [Folkbildning](http://www.folkuniversitetet.se/In-English/About-Folkuniversitetet/what-is-folkbildning/)
 
 [DECODE Barcelona](https://www.decodeproject.eu/what-decode)
@@ -38,3 +42,5 @@ map resources by geo-localizing them all together (using for example [ASIGN](htt
 [Openrampette](http://rampette.opencare.cc/)
 
 [Township data - Human Ecosystems](https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3hZQ6MoTupLmvCMEiWFPIWUjlQrV0NOqBgpG86cGaYO6rjDeqbVzM8)
+
+

@@ -42,6 +42,8 @@ Piazzale Pablo [UN-ASIGN crowd viewer tag](https://unosat.maps.arcgis.com/apps/w
 
 [Dati di borgata - Human Ecosystems](https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3hZQ6MoTupLmvCMEiWFPIWUjlQrV0NOqBgpG86cGaYO6rjDeqbVzM8)
 
+[Che Fare - La rigenerazione urbana come costruzione collettiva dell’identità del luogo](https://www.che-fare.com/rigenerazione-urbana-sognata-urise/?print=pdf)
+
 ...........
 
 

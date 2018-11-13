@@ -16,7 +16,6 @@ Cosa è:
 
 
 
-Piazzale Pablo [UN-ASIGN crowd viewer tag](https://unosat.maps.arcgis.com/apps/webappviewer/index.html?id=f43d1b10e3664b8c82d06cc28e17469c&marker=10.31059948810664%2C44.80817446927544%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22%22%2C%22longitude%22%3A10.31059948810664%2C%22latitude%22%3A44.80817446927544%2C%22isIncludeShareUrl%22%3Atrue%7D&level=18) Longitudine10,3106 Latitudine44,8082
 
 
 ## ROADMAP
@@ -28,6 +27,7 @@ sviluppare progetti
 ## PROGETTI
 mappare le risorse geolocalizzandole tutti insieme (utilizzando ad esempio [ASIGN](https://asign.cern.ch/)
 
+Piazzale Pablo [UN-ASIGN crowd viewer tag](https://unosat.maps.arcgis.com/apps/webappviewer/index.html?id=f43d1b10e3664b8c82d06cc28e17469c&marker=10.31059948810664%2C44.80817446927544%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22%22%2C%22longitude%22%3A10.31059948810664%2C%22latitude%22%3A44.80817446927544%2C%22isIncludeShareUrl%22%3Atrue%7D&level=18) Longitudine10,3106 Latitudine44,8082
 
 
 

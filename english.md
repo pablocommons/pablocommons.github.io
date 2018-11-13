@@ -17,6 +17,7 @@ Let's open our district
 
 
 ![Piazzale Pablo - Parma](pablocommons.github.io/IMG_20181113_104630.jpg)
+Piazzale Pablo little planet version
 
 
 ## ROAD MAP

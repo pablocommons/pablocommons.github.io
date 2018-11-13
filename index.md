@@ -31,7 +31,7 @@ mappare le risorse geolocalizzandole tutti insieme (utilizzando ad esempio [ASIG
 
 
 
-## LINKS e Parole Chiave
+## LINKS UTILI e Parole Chiave
 [Folkbildning](http://www.folkuniversitetet.se/In-English/About-Folkuniversitetet/what-is-folkbildning/)
 
 [DECODE Barcellona](https://www.decodeproject.eu/what-decode)
@@ -43,6 +43,8 @@ mappare le risorse geolocalizzandole tutti insieme (utilizzando ad esempio [ASIG
 [Dati di borgata - Human Ecosystems](https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3hZQ6MoTupLmvCMEiWFPIWUjlQrV0NOqBgpG86cGaYO6rjDeqbVzM8)
 
 ...........
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

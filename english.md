@@ -1,8 +1,11 @@
-##PABLOcommons
+## PABLOcommons
 
 Let's open our district
 
 [go to italian version](https://pablocommons.github.io/)
+
+## What is Digital Social Innovation
+
 a way to open the neighborhood to everyone 
 in the hybrid space in which we live (network, street, houses, dreams in the drawer, etc. ..)
 a way of connecting and promising solidarity and sustainability for a truly possible future

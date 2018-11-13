@@ -1,11 +1,11 @@
 ## PABLOcommons
 
-## Digital Social Innovation .... alcuni esempi
+## Digital Social Innovation
 
 https://www.decodeproject.eu/what-decode
 http://temi.repubblica.it/micromega-online/si-scrive-rete-si-legge-cambiamento-la-rivoluzione-tecnologica-di-barcellona/
 
-http://rampette.opencare.cc/
+[openrampette](http://rampette.opencare.cc/)
 
 #Dati di borgata - Human Ecosystems
 https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3hZQ6MoTupLmvCMEiWFPIWUjlQrV0NOqBgpG86cGaYO6rjDeqbVzM8
@@ -13,15 +13,19 @@ https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3
 
 
 ## ROADMAP
-
+mappare le risorse aperte e spontanee del quartiere
+mappare le criticità, rischi e pericoli
+mappare le esigenze, idee, ispirazioni, racconti e aneddoti
+sviluppare progetti
 
 ## PROGETTI
+mappare le risorse
 
 
 
 
-
-## LINKS
+## LINKS e Parole Chiave
+[Folkbildning](http://www.folkuniversitetet.se/In-English/About-Folkuniversitetet/what-is-folkbildning/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

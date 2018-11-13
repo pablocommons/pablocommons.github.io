@@ -2,6 +2,7 @@
 
 Let's open our district
 
+[go to italian version](https://pablocommons.github.io/)
 a way to open the neighborhood to everyone 
 in the hybrid space in which we live (network, street, houses, dreams in the drawer, etc. ..)
 a way of connecting and promising solidarity and sustainability for a truly possible future
@@ -25,12 +26,12 @@ map resources by geo-localizing them all together (using for example [ASIGN] (ht
 
 
 ## LINKS and Keywords
-[Folkbildning] (http://www.folkuniversitetet.se/In-English/About-Folkuniversitetet/what-is-folkbildning/)
+[Folkbildning](http://www.folkuniversitetet.se/In-English/About-Folkuniversitetet/what-is-folkbildning/)
 
-[DECODE Barcelona] (https://www.decodeproject.eu/what-decode)
+[DECODE Barcelona](https://www.decodeproject.eu/what-decode)
 
-[Citizens and technological revolution in Barcelona] (http://temi.repubblica.it/micromega-online/si-scrive-rete-si-legge-cambiamento-la-rivoluzione-tecnologica-di-barcellona/)
+[Citizens and technological revolution in Barcelona](http://temi.repubblica.it/micromega-online/si-scrive-rete-si-legge-cambiamento-la-rivoluzione-tecnologica-di-barcellona/)
 
-[Openrampette] (http://rampette.opencare.cc/)
+[Openrampette](http://rampette.opencare.cc/)
 
-[Township data - Human Ecosystems] (https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3hZQ6MoTupLmvCMEiWFPIWUjlQrV0NOqBgpG86cGaYO6rjDeqbVzM8)
+[Township data - Human Ecosystems](https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3hZQ6MoTupLmvCMEiWFPIWUjlQrV0NOqBgpG86cGaYO6rjDeqbVzM8)

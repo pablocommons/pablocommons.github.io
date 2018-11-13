@@ -15,7 +15,7 @@ a community of innovators and dreamers
 a realistic and sustainable solution since it is only necessary to observe the district in a different way with the means already at our disposal
 ...
 
-
+<iframe src="https://h5.veer.tv/photo-player?pid=323412&utm_medium=embed" frameborder="0" allowfullscreen="true" width="560" height="315"></iframe>
 ## ROAD MAP
 map the open and spontaneous resources of the neighborhood
 map the critical issues, risks and dangers

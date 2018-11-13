@@ -2,7 +2,7 @@
 
 Let's open our district
 
-[go to italian version](https://pablocommons.github.io/)
+[vai alla versione in italiano](https://pablocommons.github.io/)
 
 ## What is Digital Social Innovation
 

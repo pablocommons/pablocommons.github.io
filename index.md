@@ -1,15 +1,17 @@
 ## PABLOcommons
+apriAMO il quartiere
+
+[go to english version]( pablocommons.github.io/english.md)
 
 ## Digital Social Innovation
-
-https://www.decodeproject.eu/what-decode
-http://temi.repubblica.it/micromega-online/si-scrive-rete-si-legge-cambiamento-la-rivoluzione-tecnologica-di-barcellona/
-
-[openrampette](http://rampette.opencare.cc/)
-
-#Dati di borgata - Human Ecosystems
-https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3hZQ6MoTupLmvCMEiWFPIWUjlQrV0NOqBgpG86cGaYO6rjDeqbVzM8
-
+Cosa è:
+un modo di aprire il quartiere a tutti nello spazio ibrido in cui viviamo (rete, strada, case, sogni nel cassetto, etc..)
+un modo di connettersi e promettersi solidarietà e sosteniblità per un futuro veramente possibile
+un modo di fare innovazione fuori dagli schemi dove la mamma, l'ingegnere, il poeta, l'adolescente, l'anziano, la scuola, la biblioteca, l'alimentari e il volontario possano comunicare e decidere insieme che quartiere volere
+una opportunità per tutti
+una comunità di innovatori e sognatori
+una soluzione realistica e sostenibile dato che occorre solo osservare il quartiere in modo diverso con i mezzi già a nostra disposizione
+...
 
 
 ## ROADMAP
@@ -19,7 +21,7 @@ mappare le esigenze, idee, ispirazioni, racconti e aneddoti
 sviluppare progetti
 
 ## PROGETTI
-mappare le risorse
+mappare le risorse geolocalizzandole tutti insieme (utilizzando ad esempio [ASIGN](https://asign.cern.ch/)
 
 
 
@@ -27,6 +29,15 @@ mappare le risorse
 ## LINKS e Parole Chiave
 [Folkbildning](http://www.folkuniversitetet.se/In-English/About-Folkuniversitetet/what-is-folkbildning/)
 
+[DECODE Barcellona](https://www.decodeproject.eu/what-decode)
+
+[Cittadini e rivoluzione tecnologica a Barcellona](http://temi.repubblica.it/micromega-online/si-scrive-rete-si-legge-cambiamento-la-rivoluzione-tecnologica-di-barcellona/)
+
+[openrampette](http://rampette.opencare.cc/)
+
+[Dati di borgata - Human Ecosystems](https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3hZQ6MoTupLmvCMEiWFPIWUjlQrV0NOqBgpG86cGaYO6rjDeqbVzM8)
+
+...........
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

@@ -30,6 +30,7 @@ develop projects
 map resources by geo-localizing them all together (using for example [ASIGN](https://asign.cern.ch/)
 
 
+<iframe src="https://veer.tv/photos/323412" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## USEFUL LINKS and Keywords

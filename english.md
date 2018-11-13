@@ -30,7 +30,8 @@ develop projects
 map resources by geo-localizing them all together (using for example [ASIGN](https://asign.cern.ch/))
 
 
-<iframe src="https://h5.veer.tv/photo-player?pid=323412&utm_medium=embed" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://h5.veer.tv/photo-player?pid=323412&utm_medium=embed" frameborder="0" width="630" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+Piazzale Pablo 360 view
 
 
 ## USEFUL LINKS and Keywords

@@ -15,7 +15,8 @@ Let's open our district
 * ...
 
 
-![Piazzale Pablo - Parma](https://github.com/pablocommons/pablocommons.github.io/blob/master/IMG_20181113_104630.jpg)
+
+![Piazzale Pablo - Parma](pablocommons.github.io/IMG_20181113_104630.jpg)
 
 
 ## ROAD MAP

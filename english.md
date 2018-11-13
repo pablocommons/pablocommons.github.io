@@ -23,7 +23,7 @@ map the needs, ideas, inspirations, stories and anecdotes
 develop projects
 
 ## PROJECTS
-map resources by geo-localizing them all together (using for example [ASIGN] (https://asign.cern.ch/)
+map resources by geo-localizing them all together (using for example [ASIGN](https://asign.cern.ch/)
 
 
 

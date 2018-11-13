@@ -6,10 +6,10 @@ apriAMO il quartiere
 ## Digital Social Innovation
 Cosa è:
 * un modo di aprire il quartiere a tutti nello spazio ibrido in cui viviamo (rete, strada, case, sogni nel cassetto, etc..)
-* un modo di connettersi e promettersi solidarietà e sosteniblità per un futuro veramente possibile
+* un modo di connettersi e promettersi solidarietà e sostenibilità per un futuro veramente possibile
 * un modo di fare innovazione fuori dagli schemi dove la mamma, l'ingegnere, il poeta, l'adolescente, l'anziano, la scuola, la biblioteca, l'alimentari e il volontario possano comunicare e decidere insieme che quartiere volere
 * una opportunità per tutti
-* una comunità di innovatori e sognatori
+* una comunità di innovatori e sognatori dove gli esperti sono le cittadine e i cittadini
 * una soluzione realistica e sostenibile dato che occorre solo osservare il quartiere in modo diverso con i mezzi già a nostra disposizione
 * ...
 

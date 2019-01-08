@@ -55,6 +55,7 @@ Piazzale Pablo vista a 360°
 [Che Fare - La rigenerazione urbana come costruzione collettiva dell’identità del luogo](https://www.che-fare.com/rigenerazione-urbana-sognata-urise/?print=pdf)
 
 ...........
+<br>
 CONTATTI: [federico.monaco@unipr.it](mailto:federico.monaco@unipr.it)
 
 vai alle [pagine github](https://github.com/pablocommons/pablocommons.github.io) di PABLOcommons

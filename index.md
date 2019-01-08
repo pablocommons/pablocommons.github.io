@@ -46,7 +46,7 @@ Piazzale Pablo vista a 360°
 
 [Cittadini e rivoluzione tecnologica a Barcellona](http://temi.repubblica.it/micromega-online/si-scrive-rete-si-legge-cambiamento-la-rivoluzione-tecnologica-di-barcellona/)
 
-[http://www.share.barcelona/book/](http://www.share.barcelona/book/)
+[Sharing Cities A worldwide cities overview on platform economy policies with a focus on Barcelona](http://www.share.barcelona/book/)
 
 [openrampette](http://rampette.opencare.cc/)
 

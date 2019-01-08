@@ -23,7 +23,7 @@ Piazzale Pablo versione little planet
 mappare le risorse aperte e spontanee del quartiere
 mappare le criticità, rischi e pericoli
 mappare le esigenze, idee, ispirazioni, racconti e aneddoti
-sviluppare progetti
+sviluppare progetti co-creati da cittadini, enti e agenzie
 
 ## PROGETTI
 mappare le risorse geolocalizzandole tutti insieme (utilizzando ad esempio [ASIGN](https://asign.cern.ch/))
@@ -33,14 +33,20 @@ Piazzale Pablo [UN-ASIGN crowd viewer tag](https://unosat.maps.arcgis.com/apps/w
 <iframe src="https://h5.veer.tv/photo-player?pid=323412&utm_medium=embed" frameborder="0" width="630" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 Piazzale Pablo vista a 360°
 
-## LINKS UTILI e Parole Chiave
+## LINKS UTILI, Documenti e Parole Chiave
 [Piazzale Pablo a 360](https://veer.tv/photos/323412)
 
 [Folkbildning](http://www.folkuniversitetet.se/In-English/About-Folkuniversitetet/what-is-folkbildning/)
 
 [DECODE Barcellona](https://www.decodeproject.eu/what-decode)
 
+[Digital Democracy and Data Commons](https://dddc.decodeproject.eu/processes/main?locale=en)
+
+[https://www.decidim.barcelona/processes](https://www.decidim.barcelona/processes)
+
 [Cittadini e rivoluzione tecnologica a Barcellona](http://temi.repubblica.it/micromega-online/si-scrive-rete-si-legge-cambiamento-la-rivoluzione-tecnologica-di-barcellona/)
+
+[http://www.share.barcelona/book/](http://www.share.barcelona/book/)
 
 [openrampette](http://rampette.opencare.cc/)
 
@@ -49,6 +55,7 @@ Piazzale Pablo vista a 360°
 [Che Fare - La rigenerazione urbana come costruzione collettiva dell’identità del luogo](https://www.che-fare.com/rigenerazione-urbana-sognata-urise/?print=pdf)
 
 ...........
+CONTATTI: [federico.monaco@unipr.it](mailto:federico.monaco@unipr.it)
 
 vai alle [pagine github](https://github.com/pablocommons/pablocommons.github.io) di PABLOcommons
 

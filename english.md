@@ -24,7 +24,7 @@ Piazzale Pablo little planet version
 map the open and spontaneous resources of the neighborhood
 map the critical issues, risks and dangers
 map the needs, ideas, inspirations, stories and anecdotes
-develop projects
+develop projects co-created by citizens, institutions, agencies
 
 ## PROJECTS
 map resources by geo-localizing them all together (using for example [ASIGN](https://asign.cern.ch/))

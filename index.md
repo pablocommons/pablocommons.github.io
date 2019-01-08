@@ -20,10 +20,10 @@ Piazzale Pablo versione little planet
 
 
 ## ROADMAP
-mappare le risorse aperte e spontanee del quartiere
-mappare le criticità, rischi e pericoli
-mappare le esigenze, idee, ispirazioni, racconti e aneddoti
-sviluppare progetti co-creati da cittadini, enti e agenzie
+* mappare le risorse aperte e spontanee del quartiere
+* mappare le criticità, rischi e pericoli
+* mappare le esigenze, idee, ispirazioni, racconti e aneddoti
+* sviluppare progetti co-creati da cittadini, enti e agenzie
 
 ## PROGETTI
 mappare le risorse geolocalizzandole tutti insieme (utilizzando ad esempio [ASIGN](https://asign.cern.ch/))

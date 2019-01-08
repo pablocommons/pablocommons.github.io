@@ -47,5 +47,18 @@ Piazzale Pablo 360 view
 
 [Township data - Human Ecosystems](https://www.he-r.it/her-she-loves-san-lorenzo-winter-2018-calls/?fbclid=IwAR2Gc3hZQ6MoTupLmvCMEiWFPIWUjlQrV0NOqBgpG86cGaYO6rjDeqbVzM8)
 
+[Digital Democracy and Data Commons](https://dddc.decodeproject.eu/processes/main?locale=en)
 
+[https://www.decidim.barcelona/processes](https://www.decidim.barcelona/processes)
+
+[Sharing Cities A worldwide cities overview on platform economy policies with a focus on Barcelona](http://www.share.barcelona/book/)
+
+[openrampette](http://rampette.opencare.cc/)
+
+[Che Fare - La rigenerazione urbana come costruzione collettiva dell’identità del luogo](https://www.che-fare.com/rigenerazione-urbana-sognata-urise/?print=pdf)
+
+...........
+<br>
+## CONTACTS: [federico.monaco@unipr.it](mailto:federico.monaco@unipr.it)
+<br>
 go to PABLOcommons [githubpages](https://github.com/pablocommons/pablocommons.github.io)

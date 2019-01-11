@@ -59,10 +59,11 @@ Piazzale Pablo vista a 360°
 ## CONTATTI 
 [federico.monaco@unipr.it](mailto:federico.monaco@unipr.it)
 
-vai alle [pagine github](https://github.com/pablocommons/pablocommons.github.io) di PABLOcommons
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/it/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/it/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 3.0 Italia</a>.
 
+
+vai alle [pagine github](https://github.com/pablocommons/pablocommons.github.io) di PABLOcommons
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

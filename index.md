@@ -1,8 +1,6 @@
 ## PABLOcommons
 apriAMO il quartiere
 
-[go to english version](https://pablocommons.github.io/english.md)
-
 ## Digital Social Innovation
 Cosa è:
 * un modo di aprire il quartiere a tutti nello spazio ibrido in cui viviamo (rete, strada, case, sogni nel cassetto, etc..)
@@ -12,12 +10,6 @@ Cosa è:
 * una comunità di innovatori e sognatori dove gli esperti sono le cittadine e i cittadini
 * una soluzione realistica e sostenibile dato che occorre solo osservare il quartiere in modo diverso con i mezzi già a nostra disposizione
 * ...
-
-
-![Piazzale Pablo - Parma](https://github.com/pablocommons/pablocommons.github.io/blob/master/IMG_20181113_104630.jpg)
-Piazzale Pablo versione little planet
-
-
 
 ## ROADMAP
 * mappare le risorse aperte e spontanee del quartiere

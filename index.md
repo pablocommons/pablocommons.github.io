@@ -1,7 +1,7 @@
 ## PABLOcommons
 apriAMO il quartiere
 
-[go to english version](pablocommons.github.io/english)
+[go to english version](pablocommons.github.io/english.md)
 
 ## Digital Social Innovation
 Cosa è:
